@@ -2,7 +2,7 @@
 System: Google Colab
 
 # Overview
-Bec is incharge of data collecting and analysis for a nonprofit irganization, AlphabetSoup. They have raised and donated $10 million in 20 year. They invest in lifesaving technologies and organize reforestation groups. However, Bec needs to know which group to give the donation to. She knows that the impact of each donation can be but with the risk of some organizations disappearing after receiving the donation she need help create a______ that predict which organization is high risk. 
+Beck is incharge of data collecting and analysis for a nonprofit organization, AlphabetSoup. AlphabetSoup is a philanthropic foundation deciated to helping organizations that improve the environment, help people's well-being, and unify the world. They have raised and donated $10 million in 20 year. They invest in lifesaving technologies and organize reforestation groups. However, Bec needs to know which group to give the donation to. She knows that the impact of each donation can be but with the risk of some organizations disappearing after receiving the donation she need help create a mathematical data driven soluation that predict which organization is high risk. We are to help her create a deep learning neural network.
 
 # Results
 
