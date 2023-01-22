@@ -22,7 +22,8 @@ Beck is in charge of data collecting and analysis for a nonprofit organization, 
   - Optimization we were only got an Accuracy of 72.7% and a loss of 55.1%.
   
 ![Layers](https://user-images.githubusercontent.com/108844775/213918531-39c4346e-972d-4567-8794-bd8b1dd14e0a.png)
-  -We did 2 hidden layers using the activation function of rectified linear unit (relu) and sigmoid. We want our return a value from 0 to infinite so any negative inputs through the activation function are zero. As for our output, we want to transform the range from -1 to 1 by identifying by characteristic s curve. 
+ 
+ -We did 2 hidden layers using the activation function of rectified linear unit (relu) and sigmoid. We want our return a value from 0 to infinite so any negative inputs through the activation function are zero. As for our output, we want to transform the range from -1 to 1 by identifying by characteristic s curve. 
 
 ![Layer_Opt3](https://user-images.githubusercontent.com/108844775/213918539-e4b38683-ae5d-4b33-9d7c-29cf4a4a19e5.png)
   - We added 3 hidden layers and more neurons to the hidden layers.
