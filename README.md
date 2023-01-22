@@ -31,7 +31,7 @@ Beck is in charge of data collecting and analysis for a nonprofit organization, 
  - We removed the third layer to see if we can achieve 75% accuracy, which it did not. Accuracy was 72.4% and loss was 54.8%. 
  
 ![Train Evaluate_Opt3](https://user-images.githubusercontent.com/108844775/213918505-6d9f84ae-b6c9-4e9d-9b16-2049feba91af.png)
-  - Add a third hidden layer, used the Relu function for all layers, and the output layer with use the sigmoid function. Achieve 75% accuracy by adding the NAME column as one of the target variables. We were able to get 79% accuracy and a 42.7% loss. We also changed the count to be greater than 5 when determining which values to replace. (Giving credit to Angelina Macedo, for helpping with the idea of changing the dropping column and adding NAME column as the binning variable.)
+  - Add a third hidden layer, used the Relu function for all layers, and the output layer with use the sigmoid function. Achieve 75% accuracy by adding the NAME column as one of the target variables. We were able to get 79% accuracy and a 42.7% loss. We also changed the count to be greater than 5 when determining which values to replace. (Giving credit to Angelina Macedo, for helping with the idea of changing the dropping column and adding NAME column as the binning variable.)
 
 # Summary
 In conclusion, we were able to achieve the 75% accuracy that we wanted however we had to manipulate the deep learning model by using the NAME column which is an identification column. It allows the model to be set up nicely and faster than using the CLASSIFICATION column, which is what we originally wanted to use. We will need to continue to play around with this data set in order to get 75% accuracy using our original features and target values. 
